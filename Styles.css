@@ -1,0 +1,35 @@
+
+body{
+    background-color: gold;
+}
+
+h1,h2,h3{
+    font-family: Helvetica;
+    color : black;
+    text-align: center;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: grey;
+}
+
+a:hover{
+    color:lightslategray;
+}
+
+ol{
+    font-family: Helvetica;
+    text-align:center;
+    list-style-position: inside;
+    list-style-type: circle;
+}
+
+.recipeinstructions{
+    font-family: Helvetica;
+    text-align:center;
+    line-height: 0.1;
+}
